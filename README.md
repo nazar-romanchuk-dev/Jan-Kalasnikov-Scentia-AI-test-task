@@ -19,7 +19,7 @@ Clone the repoitory project and open the folder:
 
 ```
 git clone https://github.com/sinova-dev/Jan-Kalasnikov-Scentia-AI-test-task
-cd scentia
+cd Jan-Kalasnikov-Scentia-AI-test-task
 ```
 
 #### Step 2: Install Dependencies
